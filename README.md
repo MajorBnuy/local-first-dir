@@ -1,1 +1,1 @@
-# Lokal-First
+# GutHub Workflow: Lokal-First
